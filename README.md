@@ -1,5 +1,11 @@
 # 💫 About Me:
- i am a student and i love coding  and i make various websites projects and i am also a ethical hacker and i am a freelancer and i am a youtuber and i am a robotics enginner<br>
+I’m Aditya Jaiswal, a passionate tech enthusiast and developer with a strong interest in ethical hacking, web development, AI, and IoT projects. I hold a Certified Ethical Hacker (CEH) certification and enjoy building practical, real-world solutions using modern technologies.
+
+I have experience creating eCommerce websites, portfolio websites, and automation projects using ESP32, along with integrating AI-based systems. I’m also working on my own AI assistant project called V.I.C.H.A.R.A.K, which reflects my curiosity and innovation in artificial intelligence.
+
+Currently, I’m a Class IX student, balancing academics with hands-on technical learning. I believe in learning by doing and constantly improving my skills to deliver simple, effective, and affordable digital solutions for clients and users.
+
+My goal is to grow as a full-stack developer and cybersecurity professional, while helping businesses and individuals build a strong online presence.
 
 
 ## 🌐 Socials:
